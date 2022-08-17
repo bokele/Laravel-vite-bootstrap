@@ -2,8 +2,8 @@
 
 @php
 $classes = ($active ?? false)
-            ? 'nav-link active font-weight-bolder'
-            : 'nav-link';
+            ? 'c-header-nav-link active font-weight-bold'
+            : 'c-header-nav-link';
 @endphp
 
 <li class="nav-item">

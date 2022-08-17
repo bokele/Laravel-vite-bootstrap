@@ -1,0 +1,12 @@
+@import "node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "node_modules/@fortawesome/fontawesome-free/scss/solid.scss";
+@import "node_modules/@fortawesome/fontawesome-free/scss/brands.scss";
+@import "node_modules/@fortawesome/fontawesome-free/scss/regular.scss";
+
+// If you want to override variables do it here
+@import "variables";
+
+// Import styles
+@import 'node_modules/@coreui/coreui/scss/coreui';
+
+@import "custom";
